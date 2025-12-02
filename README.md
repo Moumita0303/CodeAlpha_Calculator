@@ -32,4 +32,19 @@ This project is created as part of the **CodeAlpha Frontend Development Internsh
 ---
 
 ## 📁 Folder Structure
+CodeAlpha_Calculator
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
+🔗 **Live Link:**  
+ https://moumita0303.github.io/CodeAlpha_Calculator/
+
+---
+
+## 💻 GitHub Repository  
+🔗 **Repo Link:**  
+https://github.com/Moumita0303/CodeAlpha_Calculator
+
 
